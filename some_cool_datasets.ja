@@ -1,25 +1,24 @@
 クールなデータセット
 
-Lindseyが編集しましたが、必要に応じて手を加えてください。データを追加しましょう! 
+Lindseyが編集しました。必要に応じてデータを追加しましょう! 
 
 人的情報:
-●	Census Factfinder: Information on people, places, economies, businesses, education, demographics, etc by U.S., state or county. Contains multiple years with more accessible in other parts of the Census site. Includes easy export to spreadsheets as well as visualization tools. 
-○	Start with the guided search if you don’t know where to begin. 
-○	Tutorials here. 
-●	Census Reporter: Prettier and easier to use, but not as much information. Great for backgrounding a place. 
-●	IPUMS: Microdata from the Census as well as other countries
-●	General Social Survey: Tracks opinions and demographics in the U.S. since 1972.
-●	Bureau of Labor Statistics: Information on prices, inflation, employment, different professions, pay and benefits, productivity, etc.
-○	American Time Use Survey
-○	“Economy at a glance” for states and large cities. Sample
-●	Child Trends: Aggregates hundreds of statistics on children and families across many topics. 
+●	Census Factfinder: 人、場所、経済、企業、教育、人口統計などに関する米国の州または郡別の情報。国勢調査サイトの他の部分でも複数年にわたる情報にアクセスしやすくなっています。スプレッドシートに簡単にエクスポートでき、視覚化ツールも用意されています。
+○	初めての方はガイド付き検索を利用してください。
+○	チュートリアルはこちら。
+●	Census Reporter: よりきれいで使いやすいですが、それほど多くの情報を扱っていません。 
+●	IPUMS: 国勢調査と世界各国のマイクロデータ（国勢調査、調査または実験によって収集された個人、世帯、施設などのような固体群の単位の特性に関するデータ）
+●	総合的社会調査: 1972年以降の米国における社会意識と人口統計に関するデータを収集しています。
+●	アメリカ合衆国労働統計局: 物価、インフレ、雇用、さまざまな職業、給与と手当、生産性などに関する情報を提供しています。
+○	州や大都市を取り上げた”図表で見る経済”
+●	Child Trends: 子供や家族に関する数百の統計を多くのトピックにわたり集約します。
 
-Government: 
-●	Data.gov: “The home of the U.S. Government’s open data.”
-●	DOJ’s Foreign Agents Registration database (document search)
-○	More justice data is housed on the Bureau of Justice Statistics site
-●	Plum Book: Lists employees and salaries in the executive branch
-●	Congressional Misconduct Database (Gov Track)
+行政: 
+●	Data.gov: “米政府のオープンデータの総本山”
+●	司法省の外国代理人登録法に基づくデータベース (文書検索)
+○	司法統計データは、司法統計局に掲載されています。
+● プラムブック: 連邦政府官職と給与の一覧
+●	議会不正行為データベース (Gov Track)
 ●	Bureau of Transportation Statistics: on-time airline departure and hundreds of other metrics
 ●	IRS 990 Filings: For tracking charities. 
 ○	Individual charities: ProPublica’s Nonprofit Explorer or Charity Navigator  
