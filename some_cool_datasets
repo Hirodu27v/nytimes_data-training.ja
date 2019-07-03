@@ -1,0 +1,103 @@
+クールなデータセット
+
+Lindseyが編集しましたが、必要に応じて手を加えてください。データを追加しましょう! 
+
+人的情報:
+●	Census Factfinder: Information on people, places, economies, businesses, education, demographics, etc by U.S., state or county. Contains multiple years with more accessible in other parts of the Census site. Includes easy export to spreadsheets as well as visualization tools. 
+○	Start with the guided search if you don’t know where to begin. 
+○	Tutorials here. 
+●	Census Reporter: Prettier and easier to use, but not as much information. Great for backgrounding a place. 
+●	IPUMS: Microdata from the Census as well as other countries
+●	General Social Survey: Tracks opinions and demographics in the U.S. since 1972.
+●	Bureau of Labor Statistics: Information on prices, inflation, employment, different professions, pay and benefits, productivity, etc.
+○	American Time Use Survey
+○	“Economy at a glance” for states and large cities. Sample
+●	Child Trends: Aggregates hundreds of statistics on children and families across many topics. 
+
+Government: 
+●	Data.gov: “The home of the U.S. Government’s open data.”
+●	DOJ’s Foreign Agents Registration database (document search)
+○	More justice data is housed on the Bureau of Justice Statistics site
+●	Plum Book: Lists employees and salaries in the executive branch
+●	Congressional Misconduct Database (Gov Track)
+●	Bureau of Transportation Statistics: on-time airline departure and hundreds of other metrics
+●	IRS 990 Filings: For tracking charities. 
+○	Individual charities: ProPublica’s Nonprofit Explorer or Charity Navigator  
+○	Industry trends: Amazon (contact Jeremy/Rachel)
+●	Office of Management and Budget: Lots of great data on the federal budget. There’s also a list of OMB’s data inventory here. 
+●	The Congressional Budget Office: Data on historical budgets and projections that accompany Congress reports
+●	Federal contract misconduct database
+Crime and Justice: 
+●	FBI Uniform Crime Reporting: National and more local data on crimes, use of force, hate crimes and police
+●	Bureau of Justice Statistics: Data on justice spanning multiple types of federal, state and local prison and jails, including parole, victims and crime. Has good historical data.
+NY-Specific Data: 
+●	SeeThroughNY: Database of public employees and public spending compiled by a non-partisan think tank. 
+●	New York State Crime Data: State level data on all sorts of crimes, including arrest and disposition data. 
+●	NYPD Supplementary Homicide Reports: Data on when, where, why and how murders occur.
+●	NYC Open data portal
+●	NY State open data portal
+
+
+
+Economics and Business: 
+●	S&P Capital IQ: Wealth of information on publicly traded companies pulled from SEC filings.
+●	Bureau of Labor Statistics: Data on pay and benefits, industries, employment and unemployment, inflation, how people use their time, productivity and economic profiles of local areas.
+●	Bureau of Economic Analysis: Easy to use site that has a wealth of economic data
+●	Federal Reserve Bank of St. Louis’s FRED
+
+War: 
+●	Long War Journal: Airstrike data and Taliban control in Afghanistan 
+●	Defense Logistics Agency: Military weapons being sold to local police departments
+●	National Consortium for the Study of Terrorism and Responses to Terrorism
+●	Stockholm International Peace Research Institute: Data on military and arms spending, trade, exports and embargoes internationally
+Transportation:
+●	National Highway Traffic Safety Administration: driver registration, crashes, traffic records, recalls
+○	Fatality Analysis Reporting System: Comprehensive information on factors in car crashes including information on driver, car, place, weather conditions, etc
+
+Health: 
+●	CDC: Health data including births, deaths, diseases, obesity, smoking, life expectancy, including demographic information. Some surveys too like the youth risk behavior survey.
+●	Centers for Medicare & Medicaid Services: Payment data showing procedures and cost, including names for doctors. Large databases here.
+●	EPA: Air quality data at outdoor monitors across the U.S. 
+●	Consumer Product Safety Commission: 
+●	HCUP: Longterm outcomes for patients in U.S. hospitals
+●	US News & World Report Hospital Rankings: They have a lot of data and you can look at the methodology to see where it all comes from.
+●	County Health Rankings: Aggregates a lot of data on the county level.
+●	Kaiser Family Foundation: Lots of data on health and health disparities
+
+Education: 
+●	Department of Ed: List of all the databases they have from campus safety, to state education spending, to equity in school athletics, including those that are housed on other websites.
+●	National Center for Education Stats: Easy to use data, mostly at national and state with more high-level education breakdowns for K-12 and universities such as graduation rates, tuition, etc.
+●	Civil Rights Collection: Super rich data with very specific breakdowns. Enrollment by race and disability status for school, district, state and national level, including enrollment, access to advanced courses, chronic absenteeism, teacher resources and certification and discipline. 
+
+Environment:
+●	Toxics Release Inventory (TRI) Program:  Data on toxic chemicals managed as waste released into the environment. 
+●	CO2 emissions (metric tons per capita): World Bank database of CO2 emissions per country per capita
+●	Outdoor Air Quality Data: Outdoor daily pollution data based on pollution monitors.
+●	NOAA Temperature data: Temperature data for a given city/region dating back to the 1800s. 
+●	Energy Information Administration: Data on energy sources for U.S. and other countries.
+●	Resource Watch: Global data on natural resources and human development.
+
+Immigration: 
+●	Department of Homeland Security Yearbooks: Annual breakdowns of legal and unauthorized immigration.
+●	Customs and Border Protection: Data on border resources and staffing.
+●	US Customs and Immigration Services: Data by entry program.
+International: 
+●	WTO: Data on international trades and tariffs. 
+●	World Bank: TONS of data spanning beat areas, available by country, but also on a micro level.
+●	UN: Data spanning beat areas on different countries.
+●	Eurostats: Collects data across government agencies for European countries.
+●	CIA Factbook: Data-driven profiles of most countries.
+●	Foreign Assistance: Data sets/interactive maps of U.S. foreign assistance.
+●	OECD: Econ and social stats from around the industrialized world.
+●	Demographic and Health Surveys: nationally representative population and health surveys in low and middle-income countries funded by USAID. Visualize data on STATcompiler.com
+
+Sports:
+●	Baseball Reference, Pro Football Reference, Basketball Reference: packed with data on just about any game in history as well as individual player stats. There are also hockey, soccer and college basketball and football sites.
+
+Grab Bag
+●	National Vulnerability Database for technology vulnerabilities.
+●	Coin metrics: Trends for different types of new currency.
+●	Survey of Consumer Finances
+●	Google Trends 
+●	Google Dataset Search like Google search, but for datasets.
+●	A list of all the datasets published in the Data Is Plural newsletter (you have to sign up for a free data.world account to view this).
