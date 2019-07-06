@@ -21,40 +21,38 @@ Lindseyが編集しました。必要に応じてデータを追加しましょ�
 ●	議会不正行為データベース (Gov Track)
 ●	交通統計局: 航空会社の定刻運航およびその他の何百種類もの測定基準
 ●	IRS（アメリカ合衆国内国歳入庁）フォーム990: 非営利団体の情報を収集しています 
-○	個人の慈善団体: プロパブリカによるNPOの探索と慈善団体のNavigator  
-○	Industry trends: Amazon (contact Jeremy/Rachel)
-●	Office of Management and Budget: Lots of great data on the federal budget. There’s also a list of OMB’s data inventory here. 
-●	The Congressional Budget Office: Data on historical budgets and projections that accompany Congress reports
-●	Federal contract misconduct database
-Crime and Justice: 
-●	FBI Uniform Crime Reporting: National and more local data on crimes, use of force, hate crimes and police
-●	Bureau of Justice Statistics: Data on justice spanning multiple types of federal, state and local prison and jails, including parole, victims and crime. Has good historical data.
-NY-Specific Data: 
-●	SeeThroughNY: Database of public employees and public spending compiled by a non-partisan think tank. 
-●	New York State Crime Data: State level data on all sorts of crimes, including arrest and disposition data. 
-●	NYPD Supplementary Homicide Reports: Data on when, where, why and how murders occur.
-●	NYC Open data portal
-●	NY State open data portal
+○	個人の慈善団体: プロパブリカによるNPOの探索と慈善団体のナビゲーター  
+○	インダストリートレンド: Amazon (問い合わせはJeremyかRachelまで)
+●	アメリカ合衆国行政管理予算局: 連邦予算に関する優れたデータが多数あり、予算局のデータインベントリのリストも備えられています。 
+●	議会予算局: 議会報告に付随する過去の予算と予測に関するデータ
+●	連邦契約不正行為データベース
+犯罪と司法: 
+●	●FBIの統一犯罪白書：犯罪、武器の使用、ヘイトクライムおよび警察活動に関する米国と地域のデータ
+●司法統計局：仮釈放、犠牲者、犯罪を含む、連邦、州、地方の刑務所の複数の種類にわたる司法に関するデータ。過去のデータもそろっています。
+ニューヨーク特有のデータ: 
+●	シースルーNY: 無党派のシンクタンクがまとめた公務員および公的支出のデータベース。
+●	ニューヨーク犯罪データ: 逮捕および処分のデータを含む、あらゆる種類の犯罪に関する州レベルのデータ。
+●　NYPD補充犯罪報告：いつ、どこで、なぜそしてどのように殺人が起きたかに関するデータ。
+●	NYCオープンデータポータル
+●	NY州オープンデータポータル
 
 
+経済とビジネス: 
+●　S&P Capital IQ：SECに提出する財務諸表から引き出された上場企業に関する豊富な情報。
+●	労働省労働統計局: 給与と手当、産業、雇用と失業、インフレ、人々の時間の使い方、地域の生産性および経済的側面に関するデータ。
+●	商務省経済分析局: 豊富な経済データがあり、使いやすいサイト。
+●	セントルイス連邦準備銀行のFRED（経済統計データベース）
 
-Economics and Business: 
-●	S&P Capital IQ: Wealth of information on publicly traded companies pulled from SEC filings.
-●	Bureau of Labor Statistics: Data on pay and benefits, industries, employment and unemployment, inflation, how people use their time, productivity and economic profiles of local areas.
-●	Bureau of Economic Analysis: Easy to use site that has a wealth of economic data
-●	Federal Reserve Bank of St. Louis’s FRED
+軍事: 
+●	Long War Journal：アフガニスタンにおける空爆データとタリバンの動向
+●　アメリカ国防兵站局：兵器の自治体警察への売却
+●	テロリズム及びテロリズムへの対抗措置について研究する米国のコンソーシアム
+●　ストックホルム国際平和研究所：軍事および武器の支出、貿易、輸出および国際的な禁輸に関するデータ:
+●　国道交通安全局：ドライバー登録、事故、交通記録、リコールに関する情報
+○　死傷分析報告システム：運転手、車、場所、気象条件などを含む自動車事故の要因に関する包括的な情報
 
-War: 
-●	Long War Journal: Airstrike data and Taliban control in Afghanistan 
-●	Defense Logistics Agency: Military weapons being sold to local police departments
-●	National Consortium for the Study of Terrorism and Responses to Terrorism
-●	Stockholm International Peace Research Institute: Data on military and arms spending, trade, exports and embargoes internationally
-Transportation:
-●	National Highway Traffic Safety Administration: driver registration, crashes, traffic records, recalls
-○	Fatality Analysis Reporting System: Comprehensive information on factors in car crashes including information on driver, car, place, weather conditions, etc
-
-Health: 
-●	CDC: Health data including births, deaths, diseases, obesity, smoking, life expectancy, including demographic information. Some surveys too like the youth risk behavior survey.
+健康: 
+●	米国疾病管理予防センター: Health data including births, deaths, diseases, obesity, smoking, life expectancy, including demographic information. Some surveys too like the youth risk behavior survey.
 ●	Centers for Medicare & Medicaid Services: Payment data showing procedures and cost, including names for doctors. Large databases here.
 ●	EPA: Air quality data at outdoor monitors across the U.S. 
 ●	Consumer Product Safety Commission: 
