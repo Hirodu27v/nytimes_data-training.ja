@@ -52,36 +52,37 @@ Lindseyが編集しました。必要に応じてデータを追加しましょ�
 ○　死傷分析報告システム：運転手、車、場所、気象条件などを含む自動車事故の要因に関する包括的な情報
 
 健康: 
-●	米国疾病管理予防センター: Health data including births, deaths, diseases, obesity, smoking, life expectancy, including demographic information. Some surveys too like the youth risk behavior survey.
-●	Centers for Medicare & Medicaid Services: Payment data showing procedures and cost, including names for doctors. Large databases here.
-●	EPA: Air quality data at outdoor monitors across the U.S. 
-●	Consumer Product Safety Commission: 
-●	HCUP: Longterm outcomes for patients in U.S. hospitals
-●	US News & World Report Hospital Rankings: They have a lot of data and you can look at the methodology to see where it all comes from.
-●	County Health Rankings: Aggregates a lot of data on the county level.
-●	Kaiser Family Foundation: Lots of data on health and health disparities
+●	米国疾病管理予防センター:出生、死亡、病気、肥満、喫煙、平均寿命などの人口統計情報を含む健康データ。青少年のリスク行動調査といった調査もあります。
+●	メディケア・メディケイドサービスセンター：医師の氏名を含む、手続きと費用を示す支払いデータ。
+●	アメリカ合衆国環境保護庁：全米の屋外モニターの大気質データ
+●	米国消費者製品安全委員会: 
+●	HCUP（Healthcare Cost and Utilization Project）: 米国の病院で治療した患者の長期転帰（症状の経過や治療の結果）
+●	US News & World Report Hospital Rankings: たくさんのデータがあり、その計算方法もすべて見ることができます。
+●	County Health Rankings: 郡レベルの膨大なデータを集計します。
+●	カイザー家族財団：健康と健康格差に関する多数のデータ
 
-Education: 
-●	Department of Ed: List of all the databases they have from campus safety, to state education spending, to equity in school athletics, including those that are housed on other websites.
-●	National Center for Education Stats: Easy to use data, mostly at national and state with more high-level education breakdowns for K-12 and universities such as graduation rates, tuition, etc.
-●	Civil Rights Collection: Super rich data with very specific breakdowns. Enrollment by race and disability status for school, district, state and national level, including enrollment, access to advanced courses, chronic absenteeism, teacher resources and certification and discipline. 
+教育: 
+●	教育省: キャンパスの安全性、州の教育支出、体育競技における公平性、他のWebサイトに掲載されているものを含むデータベースのリスト。
+●	米国教育統計センター: K-12（幼稚園年長から高校卒業までの13年間の教育課程）より高度な教育、例えば大学の卒業率、授業料などについて、全米や州のデータがほとんどそろっていて使いやすい。
+●	Civil Rights Collection:綿密な区分を持つ非常に豊富なデータ。学校、地区、州および国レベルで入学、上級コースへのアクセス、不登校、教員のリソースおよび資格、規律の運用などにおいてどのような人種差別があるのかを明らかにしています。 
 
-Environment:
-●	Toxics Release Inventory (TRI) Program:  Data on toxic chemicals managed as waste released into the environment. 
-●	CO2 emissions (metric tons per capita): World Bank database of CO2 emissions per country per capita
-●	Outdoor Air Quality Data: Outdoor daily pollution data based on pollution monitors.
-●	NOAA Temperature data: Temperature data for a given city/region dating back to the 1800s. 
-●	Energy Information Administration: Data on energy sources for U.S. and other countries.
-●	Resource Watch: Global data on natural resources and human development.
+環境:
+●	有害化学物質排出目録制度 (TRI):  環境に放出される有毒化学物質に関するデータ。
+●	CO2排出量（1人当たりのトン数）：世界銀行が作成した1人当たりの国ごとのCO2排出量のデータベース
+●	屋外大気質データ：汚染モニターに基づく屋外の毎日の汚染データ。
+●	NOAA（海洋大気庁）気温データ: 1800年代までさかのぼる特定の都市/地域の気温データ。
+●	エネルギー情報局: 米国およびその他の国々のエネルギー源に関するデータ。
+●　Resource Watch：天然資源とその開発に関する世界的なデータ。
 
-Immigration: 
-●	Department of Homeland Security Yearbooks: Annual breakdowns of legal and unauthorized immigration.
-●	Customs and Border Protection: Data on border resources and staffing.
-●	US Customs and Immigration Services: Data by entry program.
-International: 
-●	WTO: Data on international trades and tariffs. 
-●	World Bank: TONS of data spanning beat areas, available by country, but also on a micro level.
-●	UN: Data spanning beat areas on different countries.
+移民: 
+●	国土安全保障省年鑑：合法および不法移民の年間内訳。
+●	アメリカ合衆国税関・国境警備局: 国境警備に割り当てられている財源と人員配置に関するデータ。
+●	アメリカ合衆国市民権・移民局: エントリー・プログラムのデータ。
+
+国際: 
+●	WTO: 国際貿易と関税に関するデータ。
+●	世界銀行: 国別だけでなくミクロレベルでも入手可能な、ビートエリアにまたがる多量のデータ。
+●	国連: 様々な国のビートエリアに
 ●	Eurostats: Collects data across government agencies for European countries.
 ●	CIA Factbook: Data-driven profiles of most countries.
 ●	Foreign Assistance: Data sets/interactive maps of U.S. foreign assistance.
@@ -91,7 +92,7 @@ International:
 Sports:
 ●	Baseball Reference, Pro Football Reference, Basketball Reference: packed with data on just about any game in history as well as individual player stats. There are also hockey, soccer and college basketball and football sites.
 
-Grab Bag
+おまけ
 ●	National Vulnerability Database for technology vulnerabilities.
 ●	Coin metrics: Trends for different types of new currency.
 ●	Survey of Consumer Finances
