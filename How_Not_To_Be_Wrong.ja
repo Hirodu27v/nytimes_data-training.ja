@@ -1,26 +1,26 @@
 これはRob Gebeloffのスライドの要点を転載したものです。
 
-●	Go in assuming the data exists, and if it doesn’t, you can make your own
-●	It can be true, but you can be wrong
-○	You can’t hedge with data stories. If it’s not true, it’s wrong
-●	Math is correct, but... 
-○	Wrong context
-○	Wrong description of your findings
-○	Wrong on uncertainties or caveats
-○	Wrong focus; missing the forest through the trees木を見て森を見ず
+●	データが存在すると仮定して、存在しかった場合に自らデータを作成すること。
+●	本当かもしれませんが、間違っているかもしれません。
+○	データストーリーには言い訳の余地はありません。真実でなければ、それは間違っているのです。
+●	数字が正しくても...
+○	不適切なコンテキスト
+○	調査結果の不適切な説明
+○	不確実性についての説明や但し書きに誤りがある
+○	間違った焦点。木を見て森を見ず
 
 
-Among Things to Consider... 
-●	Download data ASAP, may not be available in the future
-●	Share findings with your targets, including hostile experts
-●	Talk to the people who collected the data
-●	Know how many records you should have
-●	Check your results against published totals
-●	Record your steps(!!)
-○	Include clearly where you got the data. Hidden sections of websites can be difficult to find
-●	Keep a clean copy of the data
-●	Consistency check your fields (company names) and know what you have in each column you’re using 
-○	Sort, filter and pivot on columns first
+いくつかの留意点..... 
+●	できるだけ早くデータをダウンロードしておくこと。将来利用できなくなる可能性があります。
+●	あなたの目標と発見を、意見を異にする専門家とも共有する。
+●	データを収集した人々と話す。
+●	必要な記録の量を知る。
+●	公開された全体に対するあなたの結果を検証してください。
+●	あなたの進捗を記録してください(!!)
+○	このとき、データの出典を明確にします。Webサイトの非表示の部分を見つけるのは難しいかもしれません。
+●	加工する前のデータのコピーを保管してください。
+●	フィールド（会社名）に矛盾がないかチェックし、あなたが使っているそれぞれの列に何があるかを把握する。
+○	まず列をソート、フィルタ、ピボットする。
 ●	Check for duplicates and understand how they got there
 ●	Understand the codebook and any caveats that come with the data
 ●	Go through the story and highlight each number, fact check it, ideally from a clean copy of the data
