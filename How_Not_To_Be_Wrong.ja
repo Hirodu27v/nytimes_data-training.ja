@@ -21,15 +21,15 @@
 ●	加工する前のデータのコピーを保管してください。
 ●	フィールド（会社名）に矛盾がないかチェックし、あなたが使っているそれぞれの列に何があるかを把握する。
 ○	まず列をソート、フィルタ、ピボットする。
-●	Check for duplicates and understand how they got there
-●	Understand the codebook and any caveats that come with the data
-●	Go through the story and highlight each number, fact check it, ideally from a clean copy of the data
-●	Think of all the ways you could be wrong
-●	What confounding factors could you skew this data?
-●	Account for outliers. Could it be a mistake?
-●	Make sure you have the right denominator in percentages or division
-●	Standardize dates, including breaking them up if necessary
-●	Longer date range, the better; don’t cherry pick a base year
-●	Get the underlying record or understand where the data came from
-●	Do not type things. Use formulas, scraping, PDF manipulation, etc. Hand-entering data introduces mistakes
-●	Spot check your data after doing large changes
+●	重複をチェックし、重複の理由を理解する。
+●	コードブックとデータに付随する注意事項を理解する。
+●	ストーリーを読み、数字の一つ一つを強調表示し、事実を確認します。できれば、データのクリーンコピーを使用します。
+●	あなたが間違っているかもしれないすべての可能性を考慮してください。
+●	このデータを歪める可能性のある要因は何ですか？
+●	外れ値を説明します。それは間違いなのでしょうか?
+●	割合や除算の計算をする際、正しい分母になっているかどうか確認してください。
+●	日付を標準化し、必要に応じて分割してください。
+●	日付の範囲は長いほど良いです。都合のいい年を基準年にしないでください。
+●	基礎となる記録を入手するか、データがどこから来たのかを把握しましょう。
+●	直接入力するのではなく、数式、スクレイピング、PDF操作などを使用するようにしてください。
+●	大きな変更を行った後はデータを無作為抽出検査する習慣を。
