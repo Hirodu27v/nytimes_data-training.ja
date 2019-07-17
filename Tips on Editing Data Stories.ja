@@ -9,16 +9,16 @@
 
 ●　古いデータを検索する場合は、「歴史的な」という単語を使用します。
 ●　検索には「データ」という単語を使用します。
-●	Keep your search broad (crime data NYC) to see the sourcing options, then explore the different sources (FBI, NYPD, real estate sites, etc.).
+●	例えばニューヨーク市の犯罪データを調べるなら幅広いソーシング・オプションを表示し、様々なソース(FBI、ニューヨーク市警、不動産サイトなど)を検索します。
 ●	.xlsや.xlsxファイルまたは政府のWebサイトを検索するには、Googleの高度な検索機能を使用します。
 ●	国勢調査のデータ: 
-○	Census Reporter: Easy to use, less information.
-○	Census Factfinder: More information, harder to use.
-○	Social Explorer: Historical data, mashed with other databases.
-●	Google scholar is a great source for research. 
-Common data pitfalls on first edit: 
-●	Cherry picking: Picking out a data range that supports a point of view, while ignoring the larger trend.
-●	Bad sample: Saying something about a larger group based on a non-representative sample. 
+○	Census Reporter: 使いやすいが情報量は少なめ。
+○	Census Factfinder: 情報量は多いが使いにくい。
+○	Social Explorer: 累積データがあり、他のデータベースとマッシュアップされている。
+●	Google scholarは検索に大いに役立ちます。
+初めて編集する時に犯しがちなデータ処理の落とし穴: 
+●	チェリーピッキング: より大きな傾向を無視して、自分の考えを裏付けるデータ範囲を選ぶこと。
+●	質の悪いサンプル: Saying something about a larger group based on a non-representative sample. 
 ●	Reporting trends without proper context, especially when other factors may account for them. Using percentages to create a false comparison between a small number to a large number.
 ●	A related problem: Using percentage change for small numbers; this is misleading.
 ●	Correlation doesn’t equal causation. Even if we don’t say something is causing something else, putting two trends next to each other encourages readers to draw that conclusion. 
