@@ -1,0 +1,23 @@
+Data Stories, Census 
+Types of data stories are from this video. 
+
+Change over time: How a metric has changed over time. 
+Census: Which states have had the largest percentage increase in their residents who are above 60?
+
+Drill down: Starting at a wider geographic area or other division, drill down into a narrower geographic area.
+Census:  Look at the percentage of seniors who aren’t citizens in NY. Drill down into the counties to see which have the highest share. Is this what you expect? 
+
+Zoom out: Starting at a narrow geographic area or division, zoom out to a wider geographic area. 
+Examples of this that aren’t geographic: team -> business unit -> department -> company -> industry -> all companies. Sports team -> league -> entire sport. School -> district -> state. 
+Census: Look at the share of seniors caring for their grandchildren in Georgia. Is this different than the rates for other states in the South? What about for the whole of the U.S.? 
+
+Contrast: An apples to apples contrast of one metric, especially the min and max or the top versus the bottom of a metric. Comparing countries, states, races/ethnicities, sports teams. You can also compare totals to rates to show these differences. 
+Census: Contrast the two most populous U.S. states: Florida and California. Are there obvious differences with how the older population is faring?
+
+Intersections: In a change over time metric, an intersection shows when one line “catches up” or passes another. To help identify these, you can think about outside events that would drastically impact a metric. 
+Census: Which states had a greater share of their seniors in poverty in 2009, compared to the U.S., but in 2016 improved, passing the U.S. 
+
+Factors: Looking at a whole pie (like people in the U.S.) and then different slices that make up that pie such as different races or genders. Also, factors inside different metrics, especially scores, for example the statistics that make-up how a football player is scored ahead or a draft. 
+Census: Which states have the most residents moving? Are there noticeable differences in the different factors inside where they moved? 
+Outliers: Things that are very different from the rest of the category. You can evaluate outliers by looking at the median and the spread of the data. 
+Census: Which states are potential outliers for the share of people over 60 who are in the workforce?
