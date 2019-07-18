@@ -16,32 +16,34 @@
 ○	Census Factfinder: 情報量は多いが使いにくい。
 ○	Social Explorer: 累積データがあり、他のデータベースとマッシュアップされている。
 ●	Google scholarは検索に大いに役立ちます。
-初めて編集する時に犯しがちなデータ処理の落とし穴: 
+
+まず編集する時に犯しがちなデータ処理の落とし穴: 
 ●	チェリーピッキング: より大きな傾向を無視して、自分の考えを裏付けるデータ範囲を選ぶこと。
 ●	質の悪いサンプル: 代表的でないサンプルに基づき、全体の傾向について言及すること。 
-●	他の要因が影響を及ぼす可能性があるのに、コンテクストを考慮せず報道すること。Using percentages to create a false comparison between a small number to a large number.
-●	A related problem: Using percentage change for small numbers; this is misleading.
-●	Correlation doesn’t equal causation. Even if we don’t say something is causing something else, putting two trends next to each other encourages readers to draw that conclusion. 
-●	Using a quote when a data point would be better: Quoting a source when we should be using data or quoting a source stating a data point as fact that they couldn’t possibly know 
-●	Watch for data-like words such as “arguably more,” “more and more” or “increasingly more.” Do we actually know this? If yes, say so.
-●	Pay special attention to data in your lede and headline. Is it written as accurately and transparently as possible?
-●	Credit and link (if possible) to the source of the data; ask where reporters got data.
-●	If the reporter analyzed data themselves, consider a “nerd box.”
-Common data pitfalls on second edit: 
-●	Median and average/mean: Use medians if outliers are present. Otherwise, you can use average. 
-●	Beware the “illion” problem: Do a search on “illion” to ensure that every “illion” that should start with a “m,” “b” or “tr” does in fact start with the right letter.
-●	In describing increases or decreases, be sure to use a to/from formulation -- “Net income rose to $68 million from $54 million.” (Otherwise it sounds like a range.)
-●	Taking a percentage past the decimal point -- 12.2 percent -- can be deceptive if one number in the calculation is an estimate or padded with many zeros.
-●	Use figures for ages of people, but for inanimate objects spell out one through nine and use figures for 10 and above. 
-●	Avoid “times less” or “time more” formulations, as in “five times less.” 
-●	When in doubt, adjust! 
-○	For inflation: https://data.bls.gov/cgi-bin/cpicalc.pl
-○	Seasonally: Use numbers that are already seasonally adjusted or compare the same month in different years to avoid this issue altogether.
-○	Population: Use rates instead of real numbers in a comparison if the population could have changed. The world is always growing!
-●	Don’t confuse the percentage point difference (40 percent - 30 percent = 10 percentage points) with percent change (40 percent to 30 percent is a 25 percent decrease). In general, take caution when using percent change with values that are already percentages. This can introduce other errors. 
-○	Percent change calculator: http://percent-change.com/
+●	他の要因が影響を及ぼす可能性があるのに、コンテクストを考慮せず報道すること。小さい数値と大きい数値をパーセンテージで誤って比較してしまう。
+●	関連の問題:小さい数値に変更率を使用する;これは誤解を招きます。
+●	相関は因果関係とイコールではありません。あるものが別のことを引き起こしていると言わなくても、二つのトレンドを並べてしまうと、読者をその結論に導くことになります。
+●	データ・ポイントが適している場合に引用文を使用する:データを使用する必要がある場合にソースを引用する、またはデータ・ポイントが不明であることを示すソースを引用する。
+●	「おそらくそれ以上に」、「ますます」、「どんどん増えています」などの言葉に注意しましょう。どの程度そうなっているのか具体的に説明できれば、その方がいいのです。
+●	リードとヘッドラインのデータには特に注意してください。それはできるだけ正確でクリアに書かれていますか?
+●	データのソースへのクレジットおよびリンク(できれば);記者にどこからデータを得たのか尋ねてみましょう。
+●	執筆者自らデータを分析した場合には“nerd box”を考慮しましょう。
 
-Headlines on data stories:
-●	If there’s a crucial number, try to get it into the headline.
-●	If the data at the center of the story won’t be readily grasped in the headline, promise an explanation.
-●	If there are charts, make that clear in the headline.
+２回目の編集をする時に犯しがちなデータ処理の落とし穴: 
+●	中央値および平均/平均:外れ値が存在する場合は、中央値を。それ以外の場合は、平均を使用できます。
+●	“illion”に注意してください: “illion”を検索して、その始めの文字が”m”、 “b”  “tr”なのか確かめましょう。
+●	「純利益は5400万ドルから6800万ドルに増加した」というように、増減の説明には必ずto/fromを。(そうでなければ、範囲のように見えます)。
+●	12.2％のように、小数点以下のパーセンテージは推測値や丸めた値を分かりにくくします。
+●	年齢には数字を使い、無生物を数えるときはoneからnineまでは文字で、10以上から数字を使います。 
+●	「5倍も少ない」のような「より少ない」や「より多く」の使用は避けましょう。
+●	疑わしきは訂正を! 
+○	インフレについて調べる： https://data.bls.gov/cgi-bin/cpicalc.pl
+○	季節調整: この問題を回避するには、季節調整済みの数値を使用するか、または異なる年の同じ月を比較してください。
+○	母集団:母集団が変更された可能性がある場合は、実数のかわりに率を使用して比較します。世界は常に成長しているのです!
+●	変化率(40%~30%=10ポイント)と変化率(40%から30%は25%の減少)を混同しないでください。一般に、すでにパーセンテージになっている値で変化率を使用する場合は注意が必要です。これにより、他のエラーが発生する可能性があります。
+○	変化率を計算する: http://percent-change.com/
+
+データ・ストーリーの見出し:
+●	衝撃的な数字があるなら、見出しに載せましょう。
+●	記事の核心をなすデータが見出しで容易に把握できない場合は、丁寧な説明を。
+●	If 図表があるなら、見出しで明確にしましょう。
