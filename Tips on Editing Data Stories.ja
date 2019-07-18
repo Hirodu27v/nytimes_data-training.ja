@@ -1,4 +1,4 @@
-ストーリーの編集中:
+ストーリーの編集にあたって:
 
 ● これは数量化できるのでしょうか?
 ●　多くの場合、データ点は、記者や情報源よりも、傾向をより良く説明できます。
@@ -9,7 +9,7 @@
 
 ●　古いデータを検索する場合は、「歴史的な」という単語を使用します。
 ●　検索には「データ」という単語を使用します。
-●	例えばニューヨーク市の犯罪データを調べるなら幅広いソーシング・オプションを表示し、様々なソース(FBI、ニューヨーク市警、不動産サイトなど)を検索します。
+●	例えばニューヨーク市の犯罪データを調べるなら）幅広いソーシング・オプションを表示し、様々なソース(FBI、ニューヨーク市警、不動産サイトなど)を検索します。
 ●	.xlsや.xlsxファイルまたは政府のWebサイトを検索するには、Googleの高度な検索機能を使用します。
 ●	国勢調査のデータ: 
 ○	Census Reporter: 使いやすいが情報量は少なめ。
@@ -18,8 +18,8 @@
 ●	Google scholarは検索に大いに役立ちます。
 初めて編集する時に犯しがちなデータ処理の落とし穴: 
 ●	チェリーピッキング: より大きな傾向を無視して、自分の考えを裏付けるデータ範囲を選ぶこと。
-●	質の悪いサンプル: Saying something about a larger group based on a non-representative sample. 
-●	Reporting trends without proper context, especially when other factors may account for them. Using percentages to create a false comparison between a small number to a large number.
+●	質の悪いサンプル: 代表的でないサンプルに基づき、全体の傾向について言及すること。 
+●	他の要因が影響を及ぼす可能性があるのに、コンテクストを考慮せず報道すること。Using percentages to create a false comparison between a small number to a large number.
 ●	A related problem: Using percentage change for small numbers; this is misleading.
 ●	Correlation doesn’t equal causation. Even if we don’t say something is causing something else, putting two trends next to each other encourages readers to draw that conclusion. 
 ●	Using a quote when a data point would be better: Quoting a source when we should be using data or quoting a source stating a data point as fact that they couldn’t possibly know 
