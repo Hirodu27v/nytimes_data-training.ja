@@ -1,48 +1,47 @@
-Data Stories Brainstorming Guide
-Types of data stories are from this video. 
+データ･ストーリーの類型はこのビデオに従います。
 
-What’s a topic on your beat that may have data? ____________________________
+データを持っているかもしれない担当分野のトピックはありますか? ____________________________
 
-What are some metrics in this topic? 
+そのトピック（のメトリック）はどのようなものですか? 
 1.	______________________________________________________________
 2.	______________________________________________________________
 3.	______________________________________________________________
 4.	______________________________________________________________
 5.	______________________________________________________________
 
-THE SEVEN TYPES OF DATA STORIES
+データ･ストーリーの七つの類型
 
-Change over time: How a metric has changed over time. 
-●	_________________________________________________________
-●	_________________________________________________________
-●	_________________________________________________________
-
-Drill down: Starting at a wider geographic area or other division, drill down into a narrower geographic area or division.
+経時的な変化: データが時間を経てどのように変化しているのでしょうか。 
 ●	_________________________________________________________
 ●	_________________________________________________________
 ●	_________________________________________________________
 
-Zoom out: Starting at a narrow geographic area or division, zoom out to a wider geographic area or division. 
+絞り込み: より広い地域や全体から、より狭い地域や部分に絞り込みます。
 ●	_________________________________________________________
 ●	_________________________________________________________
 ●	_________________________________________________________
 
-Contrast: An apples to apples contrast of one metric, especially the min and max or the top versus the bottom of a metric. Comparing countries, states, races/ethnicities, sports teams. You can also compare totals to rates to show these differences. 
+縮小: 個別のデータや地域から、より広いものへとズームアウトします。 
 ●	_________________________________________________________
 ●	_________________________________________________________
 ●	_________________________________________________________
 
-Intersections: In a change over time metric, an intersection shows when one line “catches up” or passes another. To help identify these, you can think about outside events that would drastically impact a metric. 
+比較: 測定されたデータの最小値と最大値、または上限と下限を比較します。国や州、人種や民族、スポーツチームを比較してみましょう。 合計を比率と比較してこれらの差異を示すこともできます。
 ●	_________________________________________________________
 ●	_________________________________________________________
 ●	_________________________________________________________
 
-Factors: Looking at a whole pie (like people in the U.S.) and then different slices that make up that pie such as different races or genders. Also, factors inside different metrics, especially scores, for example the statistics that make-up how a football player is scored ahead or a draft. 
+交差: 経時的な変化のメトリックでは、交差はある線が別の線に追いついたり、追い越したりしたことを示します。これらを識別するには、メトリックに大きな影響を与える外部イベントを考慮します。
 ●	_________________________________________________________
 ●	_________________________________________________________
 ●	_________________________________________________________
 
-Outliers: Things that are very different from the rest of the category. You can evaluate outliers by looking at the median and the spread of the data. 
+因数分解: 全体(アメリカを形作る人々のように)を見てから、全体を構成するさまざまな人種や性別などの要素に分解します。個別の要素はそれぞれの測定基準があります。例えばフットボール選手がどのようにしてリードされたか、とドラフトについての統計は別の基準に従っていますｍす。
+●	_________________________________________________________
+●	_________________________________________________________
+●	_________________________________________________________
+
+外れ値:他のカテゴリーとは大きく異なるもの。データの中央値と分散を調べることで、外れ値を評価できます。 
 ●	_________________________________________________________
 ●	_________________________________________________________
 ●	_________________________________________________________
