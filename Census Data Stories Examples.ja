@@ -1,13 +1,13 @@
-データストーリーの類型についてはこの動画から。Types of data stories are from this video. 
+データストーリーの類型についてはこの動画から。
 
-Change over time: How a metric has changed over time. 
-Census: Which states have had the largest percentage increase in their residents who are above 60?
+経時的な変化: 時間がたつにつれ、データがどのように変化したかを調べます。
+国勢調査:60歳以上の住民の増加率が最も高かったのはどの州ですか?
 
-Drill down: Starting at a wider geographic area or other division, drill down into a narrower geographic area.
-Census:  Look at the percentage of seniors who aren’t citizens in NY. Drill down into the counties to see which have the highest share. Is this what you expect? 
+絞り込み: より広い地域から始めて、より狭い地域に絞り込みます。
+国勢調査:ニューヨーク市民ではない高齢者で、どの国の出身者が最も高い割合を占めているかを調べます。思った通りでしたか?
 
-Zoom outズームアウト: Starting at a narrow geographic area or division, zoom out to a wider geographic area. 
-Examples of this that aren’t geographic: team -> business unit -> department -> company -> industry -> all companies. Sports team -> league -> entire sport. School -> district -> state. 
+ズームアウト: 狭い地域から広い地域へ視野を広げます。
+地理的ではない例としては、チーム->事業部門->部門->会社->産業->すべての会社があります。スポーツチーム→リーグ→全スポーツ。学校→学区→州。
 Census: Look at the share of seniors caring for their grandchildren in Georgia. Is this different than the rates for other states in the South? What about for the whole of the U.S.? 
 
 Contrast: An apples to apples contrast of one metric, especially the min and max or the top versus the bottom of a metric. Comparing countries, states, races/ethnicities, sports teams. You can also compare totals to rates to show these differences. 
