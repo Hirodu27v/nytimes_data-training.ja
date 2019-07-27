@@ -1,22 +1,23 @@
 データストーリーの類型についてはこの動画から。
 
 経時的な変化: 時間がたつにつれ、データがどのように変化したかを調べます。
-国勢調査:60歳以上の住民の増加率が最も高かったのはどの州ですか?
+国勢調査:60歳以上の住民が最も増加したのはどの州ですか?
 
 絞り込み: より広い地域から始めて、より狭い地域に絞り込みます。
-国勢調査:ニューヨーク市民ではない高齢者で、どの国の出身者が最も高い割合を占めているかを調べます。思った通りでしたか?
+国勢調査:ニューヨーク州のどの地域がアメリカ市民ではない高齢者の割合が最も高いのかを調べます。思った通りでしたか?
 
 ズームアウト: 狭い地域から広い地域へ視野を広げます。
 地理的ではない例としては、チーム->事業部門->部門->会社->産業->すべての会社というところ。あるスポーツチーム→リーグ→全スポーツ、学校→学区→州というようにも使えます。。
-国勢調査:孫の世話をしているジョージア州の高齢者の割合を見ましょう。南部の他の州の割合と比べるとどうですか?アメリカ全体ではどうでしょう?
+国勢調査:孫の面倒を見ているジョージア州の高齢者の割合を見ましょう。南部の諸州の割合と比べるとどうですか?アメリカ全体ではどうでしょう?
 
-Contrast: An apples to apples contrast of one metric, especially the min and max or the top versus the bottom of a metric. Comparing countries, states, races/ethnicities, sports teams. You can also compare totals to rates to show these differences. 
-Census: Contrast the two most populous U.S. states: Florida and California. Are there obvious differences with how the older population is faring?
+比較: 測定されたデータの最小値と最大値、または上限と下限を比較します。国や州、人種や民族、スポーツチームを比較してみましょう。 合計を比率と比較してこれらの差異を示すこともできます。
+国勢調査:米国で最も人口の多い二つの州、フロリダ州とカリフォルニア州を比較してください。高齢者の人口動態には明らかな違いがありますか。
 
-Intersections: In a change over time metric, an intersection shows when one line “catches up” or passes another. To help identify these, you can think about outside events that would drastically impact a metric. 
-Census: Which states had a greater share of their seniors in poverty in 2009, compared to the U.S., but in 2016 improved, passing the U.S. 
+交差: 経時的な変化のメトリックでは、交差はある線が別の線に追いついたり、追い越したりしたことを示します。これらを識別するには、メトリックに大きな影響を与える外部イベントを考慮します。
+国勢調査:2009年に全米の平均より高齢者の貧困率が高く、2016年には平均を下回った州はどこでしょう。
 
-Factors: Looking at a whole pie (like people in the U.S.) and then different slices that make up that pie such as different races or genders. Also, factors inside different metrics, especially scores, for example the statistics that make-up how a football player is scored ahead or a draft. 
-Census: Which states have the most residents moving? Are there noticeable differences in the different factors inside where they moved? 
-Outliers: Things that are very different from the rest of the category. You can evaluate outliers by looking at the median and the spread of the data. 
-Census: Which states are potential outliers for the share of people over 60 who are in the workforce?
+因数分解: 全体(アメリカを形作る人々のように)を見てから、全体を構成するさまざまな人種や性別などの要素に分解します。個別の要素はそれぞれの測定基準があります。例えばフットボール選手がどのようにしてリードされたかとドラフトについての統計は別の基準に従っています。
+国勢調査: 転出者が多い州はどこですか。転出先の州との違いを示す要因は何かあるのでしょうか? 
+
+外れ値:他のカテゴリーとは大きく異なるもの。データの中央値と分散を調べることで、外れ値を評価できます。 
+国勢調査:労働人口に占める60歳以上の割合が（他の州と比べたときに）外れ値となるのはどの州ですか?
